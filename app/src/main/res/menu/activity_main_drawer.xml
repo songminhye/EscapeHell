@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_grade_layout"
+            android:icon="@drawable/control"
+            android:title="학점계산기" />
+        <item
+            android:id="@+id/nav_graduation_layout"
+            android:icon="@drawable/control"
+            android:title="졸업요건" />
+        <item
+            android:id="@+id/nav_scholarship_layout"
+            android:icon="@drawable/control"
+            android:title="장학요건" />
+        <item
+            android:id="@+id/nav_curriculum_layout"
+            android:icon="@drawable/control"
+            android:title="커리큘럼" />
+
+    </group>
+</menu>

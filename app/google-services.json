@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "128421544583",
+    "firebase_url": "https://escape-to-hell.firebaseio.com",
+    "project_id": "escape-to-hell",
+    "storage_bucket": "escape-to-hell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128421544583:android:1530bbf937367492",
+        "android_client_info": {
+          "package_name": "com.bistsmh.escapehell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128421544583-57iih2rt7ukc80or8n1j394pif29us40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bistsmh.escapehell",
+            "certificate_hash": "3e376c42341a97dd5f984f33369366846e890c9e"
+          }
+        },
+        {
+          "client_id": "128421544583-irltnsq5pecdgujhlan7v2v7jbibotf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iDBarU53Fn-6vPCHk9OibZ1yzryL2Zg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128421544583-irltnsq5pecdgujhlan7v2v7jbibotf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
